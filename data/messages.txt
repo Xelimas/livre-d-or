@@ -1,0 +1,3 @@
+{"pseudo":"john","message":"ceci est une autre test","date":1639057801}
+{"pseudo":"robert","message":"cette phrase aura une deuxi\u00e8me partie\r\nqui est juste l\u00e0","date":1639062313}
+{"pseudo":"roger","message":"ceci est un texte final\r\nqui termine cette exercice","date":1639062417}
